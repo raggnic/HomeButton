@@ -6,4 +6,4 @@ The idea is simple, when kids are back from school they push the button and then
 Code for an ESP8266, heavyly inspired on various makers here and there.
 
 
-To be continued
+![proto](esp_bb.svg "proto")
