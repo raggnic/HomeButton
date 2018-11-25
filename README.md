@@ -8,3 +8,11 @@ Code for an ESP8266, heavily inspired on various makers here and there.
 
 
 ![proto](Illustration.png "proto")
+
+
+
+## Warning 
+During update grounds must be shared
+
+
+
